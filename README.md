@@ -11,7 +11,6 @@ This project is a basic implementation of the Amazon website using HTML for stru
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 ## Features
 - Navigation bar with search functionality.
 - Hero section with a call-to-action message.
